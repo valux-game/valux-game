@@ -14,4 +14,4 @@
 
 # Join My Discord Server
 
-[https://discord.gg/BYxqNfZqtr](Server)
+(https://discord.gg/BYxqNfZqtr)[Server]
